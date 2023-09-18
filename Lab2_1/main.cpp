@@ -7,7 +7,7 @@ int main()
 {
 	double x, z1, z2;
 
-	cout << "x = "; cin >> x;
+	cout << "x = "; cin >> x; //‚‚≥‰
 
 	double sec = 1 / cos(2*x);
 
