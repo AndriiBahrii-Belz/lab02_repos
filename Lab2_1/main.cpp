@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-	double x, z1, z2;
+	double x, z1, z2; //çì³íí³
 
 	cout << "x = "; cin >> x; //ââ³ä
 
