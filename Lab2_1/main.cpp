@@ -14,7 +14,7 @@ int main()
 	z1 = (cos(x) + sin(x)) / (cos(x) - sin(x)); //1 рівняння
 	z2 = (tan(2 * x)) + sec; //2 рівняння
 
-	cout << "z1 = " << z1 << endl;
+	cout << "z1 = " << z1 << endl; //вивід
 	cout << "z2 = " << z2 << endl;
 
 	cin.get();
